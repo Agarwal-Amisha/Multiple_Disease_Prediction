@@ -1,0 +1,31 @@
+.form{
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 75vw;
+    height: 75vh;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.form h1{
+    text-align: center;
+}
+.form-row{
+    align-items: center;
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+}
+.form-row input{
+    height:45px;
+    width: 280px;
+    color: black;
+}
+.form .btn{
+    margin: auto;
+    height: 40px;
+    width: 200px;
+    display: block;
+    margin-top: 55px;
+    background-color: rgb(195, 131, 131);
+}

@@ -1,0 +1,67 @@
+html{
+    overflow-x: hidden;
+}
+img{
+    height: 500px;
+}
+
+.navbar-nav a{
+     font-weight: 15px;
+     text-transform: uppercase;
+     font-weight: 500;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 17px;
+    word-spacing: 1.8px;
+}
+#Diagnose-Disease{
+    margin-top: 100px;
+}
+#Diagnose-Disease img{
+    height: 300px;
+    width: 296px;
+}
+.card{
+    border: 2px solid black;
+    width: 300px;
+}
+.card-title{
+    text-align: center;
+}
+
+.btn{
+     height: 40px;
+     width: 200px;
+     border: 1px solid black;
+     display: block;
+     margin: auto;
+     margin-top: 10px;
+     border-radius:5px;
+     box-shadow:  5px 10px 18px #656565;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.display_ans_box{
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    overflow-y: hidden;
+}
+
+#fotter{
+    margin-top: 100px;
+}
